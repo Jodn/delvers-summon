@@ -1,0 +1,10 @@
+## Interface: 11507
+## Title: DelversSummon
+## Notes: Whisper 123 Queue fuer Warlock Summons
+## Author: Warflock
+## Version: 0.3.6
+## SavedVariables: DELVERSSUMMONDB
+
+Locales\enUS.lua
+Locales\deDE.lua
+DelversSummon.lua
